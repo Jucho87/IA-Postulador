@@ -1,0 +1,6 @@
+{
+  "name": "LinkedIn Job Automation Agent",
+  "description": "Agente universal e inteligente de búsqueda y postulación en LinkedIn Jobs (Easy Apply). Cuenta con SSO multi-usuario (Google Workspace / LinkedIn), persistencia en Firebase, planes mensuales y micro-pagos por uso estilo OpenAI/Claude/Abacus.AI, y sincronización con Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
